@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T19:13:21 NPT" name="Suite" finished-at="2022-11-21T19:14:32 NPT" duration-ms="71826">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T19:13:21 NPT" name="Test01" finished-at="2022-11-21T19:13:31 NPT" duration-ms="10801">
+      <class name="com.qa.crossbrowsers.CrossBrowsers">
+        <test-method is-config="true" signature="CrossBrowser(java.lang.String)[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@7671cb68]" started-at="2022-11-21T19:13:21 NPT" name="CrossBrowser" finished-at="2022-11-21T19:13:26 NPT" duration-ms="5913" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossBrowser -->
+        <test-method signature="verifyTitel1()[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@7671cb68]" started-at="2022-11-21T19:13:26 NPT" name="verifyTitel1" finished-at="2022-11-21T19:13:31 NPT" duration-ms="4467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitel1 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@7671cb68]" started-at="2022-11-21T19:13:31 NPT" name="Quit" finished-at="2022-11-21T19:13:31 NPT" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- com.qa.crossbrowsers.CrossBrowsers -->
+    </test> <!-- Test01 -->
+    <test started-at="2022-11-21T19:13:31 NPT" name="Test02" finished-at="2022-11-21T19:14:12 NPT" duration-ms="40318">
+      <class name="com.qa.crossbrowsers.CrossBrowsers">
+        <test-method is-config="true" signature="CrossBrowser(java.lang.String)[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@5ace1ed4]" started-at="2022-11-21T19:13:31 NPT" name="CrossBrowser" finished-at="2022-11-21T19:13:54 NPT" duration-ms="22278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MSEDGE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossBrowser -->
+        <test-method signature="verifyTitel1()[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@5ace1ed4]" started-at="2022-11-21T19:13:54 NPT" name="verifyTitel1" finished-at="2022-11-21T19:14:11 NPT" duration-ms="17547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitel1 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@5ace1ed4]" started-at="2022-11-21T19:14:11 NPT" name="Quit" finished-at="2022-11-21T19:14:12 NPT" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- com.qa.crossbrowsers.CrossBrowsers -->
+    </test> <!-- Test02 -->
+    <test started-at="2022-11-21T19:14:12 NPT" name="Test03" finished-at="2022-11-21T19:14:32 NPT" duration-ms="20677">
+      <class name="com.qa.crossbrowsers.CrossBrowsers">
+        <test-method is-config="true" signature="CrossBrowser(java.lang.String)[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@31e5415e]" started-at="2022-11-21T19:14:12 NPT" name="CrossBrowser" finished-at="2022-11-21T19:14:17 NPT" duration-ms="4852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossBrowser -->
+        <test-method signature="verifyTitel1()[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@31e5415e]" started-at="2022-11-21T19:14:17 NPT" name="verifyTitel1" finished-at="2022-11-21T19:14:31 NPT" duration-ms="14509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitel1 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:com.qa.crossbrowsers.CrossBrowsers@31e5415e]" started-at="2022-11-21T19:14:31 NPT" name="Quit" finished-at="2022-11-21T19:14:32 NPT" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- com.qa.crossbrowsers.CrossBrowsers -->
+    </test> <!-- Test03 -->
+  </suite> <!-- Suite -->
+</testng-results>
